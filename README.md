@@ -16,7 +16,8 @@ Outside of work I run Gentoo Linux on bare metal, contribute to open source, and
 | **OS** | Gentoo Linux (private), Fedora (work) |
 | **Desktop** | KDE Plasma on Wayland |
 | **Languages** | Go, Python, JavaScript, Bash, HTML/CSS |
-| **Infrastructure** | Podman, Gitea, PipeWire |
+| **Infrastructure** | Docker, Podman, Gitea |
+| **AI** | API integrations, LLM tooling |
 | **Web** | WordPress, Netlify |
 | **Hardware** | AMD RX 7900 XT, Intel i7-11700F |
 

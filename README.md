@@ -1,23 +1,28 @@
 # Hi, I'm Josh
 
-Linux enthusiast and developer running Gentoo on bare metal with KDE Plasma.
+Biomedical Engineer at [Immeditech AG](https://immeditech.ch) -- working across medtech, DevOps, and software development.
 
-I like building things, fixing bugs in open-source software, and understanding how systems work under the hood.
+Outside of work I run Gentoo Linux on bare metal, contribute to open source, and build side projects.
 
 ## What I'm working on
 
 - **[OpenMapper](https://github.com/joshii-h/OpenMapper)** -- currently in development
 - **[fix-omnissa-horizon-graphic-bugs-wayland](https://github.com/joshii-h/fix-omnissa-horizon-graphic-bugs-wayland)** -- patches for Omnissa Horizon Client on Wayland/XWayland
 
-## Tech I use daily
+## Tech
 
-- **OS:** Gentoo Linux (OpenRC, btrfs, custom-tuned)
-- **Desktop:** KDE Plasma on Wayland
-- **GPU:** AMD Radeon RX 7900 XT (amdgpu)
-- **Languages:** Go, JavaScript, HTML/CSS
-- **Tools:** Podman, Git, PipeWire, Flatpak, Steam
+| Area | Stack |
+|------|-------|
+| **OS** | Gentoo Linux (OpenRC, btrfs, custom-tuned) |
+| **Desktop** | KDE Plasma on Wayland |
+| **Languages** | Go, Python, JavaScript, Bash, HTML/CSS |
+| **Infrastructure** | Podman, Gitea, PipeWire |
+| **Web** | WordPress, Netlify |
+| **Hardware** | AMD RX 7900 XT, Intel i7-11700F |
 
 ## Links
 
 - **Portfolio:** [joshuahirsig.xyz](https://joshuahirsig.xyz)
+- **LinkedIn:** [joshua-hirsig](https://www.linkedin.com/in/joshua-hirsig/)
+- **Stack Overflow:** [joshii-h](https://stackoverflow.com/users/5003199/joshii-h)
 - **Mail:** joshii@joshuahirsig.xyz

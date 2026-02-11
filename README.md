@@ -13,7 +13,7 @@ Outside of work I run Gentoo Linux on bare metal, contribute to open source, and
 
 | Area | Stack |
 |------|-------|
-| **OS** | Gentoo Linux (OpenRC, btrfs, custom-tuned) |
+| **OS** | Gentoo Linux (private), Fedora (work) |
 | **Desktop** | KDE Plasma on Wayland |
 | **Languages** | Go, Python, JavaScript, Bash, HTML/CSS |
 | **Infrastructure** | Podman, Gitea, PipeWire |

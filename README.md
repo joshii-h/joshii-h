@@ -1,6 +1,6 @@
 # Hi, I'm Josh
 
-Biomedical Engineer at [Immeditech AG](https://immeditech.ch) -- working across medtech, DevOps, and software development.
+Biomedical Engineer at [Immeditech AG](https://immeditech.ch) -- building software for medtech, integrating clinical systems (DICOM, HIS/RIS), and keeping infrastructure running.
 
 Outside of work I run Gentoo Linux on bare metal, contribute to open source, and build side projects.
 
@@ -13,13 +13,13 @@ Outside of work I run Gentoo Linux on bare metal, contribute to open source, and
 
 | Area | Stack |
 |------|-------|
+| **Languages** | Go, Java, TypeScript, Python, Bash |
+| **Medtech** | DICOM, HL7/ADT, clinical system integrations |
+| **AI** | Ollama, LLM-based tooling and API integrations |
+| **Infrastructure** | Docker, Podman, Keycloak, HAProxy, WireGuard |
+| **Platforms** | Zammad, WikiJS, Gitea |
 | **OS** | Gentoo Linux (private), Fedora (work) |
 | **Desktop** | KDE Plasma on Wayland |
-| **Languages** | Go, Python, JavaScript, Bash, HTML/CSS |
-| **Infrastructure** | Docker, Podman, Gitea |
-| **AI** | API integrations, LLM tooling |
-| **Web** | WordPress, Netlify |
-| **Hardware** | AMD RX 7900 XT, Intel i7-11700F |
 
 ## Links
 

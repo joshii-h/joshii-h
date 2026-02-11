@@ -2,7 +2,7 @@
 
 Biomedical Engineer at [Immeditech AG](https://immeditech.ch) -- working with medtech software, clinical system integrations (DICOM, HL7/ADT), and internal tooling.
 
-Outside of work I run Gentoo Linux on bare metal, contribute to open source, and build side projects.
+At work I build TypeScript/React frontends, Go microservices, and handle CI/CD pipelines. Outside of work I run Gentoo Linux on bare metal and contribute to open source.
 
 ## What I'm working on
 
@@ -13,8 +13,9 @@ Outside of work I run Gentoo Linux on bare metal, contribute to open source, and
 
 | Area | Stack |
 |------|-------|
-| **Languages** | Go, Java, TypeScript, Python, Bash |
-| **Work** | DICOM, HL7/ADT, Docker, Keycloak, Zammad |
+| **Languages** | Go, TypeScript, Java, Python, Bash |
+| **Frontend** | React, Material Design 3, Vite |
+| **Work** | DICOM, HL7/ADT, Docker, Keycloak, Zammad, CI/CD |
 | **AI** | Ollama, LLM integrations |
 | **Private** | Gentoo Linux, KDE Plasma, Podman, open source patches |
 

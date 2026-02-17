@@ -6,6 +6,7 @@ At work I build TypeScript/React frontends, Go microservices, and handle CI/CD p
 
 ## What I'm working on
 
+- **[gentoo-forge](https://github.com/joshii-h/gentoo-forge)** -- optimized Gentoo Linux configuration (OpenRC + KDE Plasma + Wayland + AMD GPU + LTO + native Steam)
 - **[OpenMapper](https://github.com/joshii-h/OpenMapper)** -- currently in development
 - **[fix-omnissa-horizon-graphic-bugs-wayland](https://github.com/joshii-h/fix-omnissa-horizon-graphic-bugs-wayland)** -- patches for Omnissa Horizon Client on Wayland/XWayland
 
@@ -22,6 +23,7 @@ At work I build TypeScript/React frontends, Go microservices, and handle CI/CD p
 ## Links
 
 - **Portfolio:** [joshuahirsig.xyz](https://joshuahirsig.xyz)
+- **Codeberg:** [joshii_h](https://codeberg.org/joshii_h)
 - **LinkedIn:** [joshua-hirsig](https://www.linkedin.com/in/joshua-hirsig/)
 - **Stack Overflow:** [joshii-h](https://stackoverflow.com/users/5003199/joshii-h)
 - **Mail:** joshii@joshuahirsig.xyz
